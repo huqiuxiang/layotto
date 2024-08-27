@@ -43,6 +43,7 @@ import (
 	"mosn.io/mosn/pkg/featuregate"
 )
 
+// test注释
 var (
 	flagToMosnLogLevel = map[string]string{
 		"trace":    "TRACE",
